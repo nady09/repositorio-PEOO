@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System; 
 
 public class Program {
@@ -6,3 +7,6 @@ public class Program {
     Console.WriteLine("Nadynne Santana De Souza");
   }
 }
+=======
+
+>>>>>>> origin/main
