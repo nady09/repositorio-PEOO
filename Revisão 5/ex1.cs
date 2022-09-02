@@ -8,7 +8,7 @@ class Program {
     double c = Menor(a, b);
     Console.WriteLine(c);
   }
-  public static double Menor(double x, double y) {
+  public statuic double Menor(double x, double y) {
     if (x < y)return x;
     else return y;
     }
